@@ -1,2 +1,4 @@
 # Compressor-Stage-Design
 Design last stage of Axial LPC, having specified requirements.
+Design LPC last stage to have pressure rise of 1.2. Geometric parameters are : tip diameter = 0.75m, hub-tip radius ratio = 0.5 and operating Absolute Mach number= 0.5.
+Limiting Tip mach number to 1 initial population is generated and then PSO is used to find optimal starting solution.
